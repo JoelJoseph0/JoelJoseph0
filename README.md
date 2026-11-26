@@ -1,67 +1,126 @@
-<h2 align="left">Hi 👋! I'm Joel Joseph and I'm a Flutter Developer, from India</h2>
+ <div align="center">
 
-###
+<!-- CYBERPUNK PURPLE HERO BANNER -->
 
-<img align="right" height="250" width = "400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12002f,50:5b21b6,100:bc13fe&height=220&section=header&text=Joel%20Joseph&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58&descColor=e9d5ff" />
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Python+%7C+FastAPI+Developer;Exploring+Generative+AI;Building+Ideas+Into+Applications" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
-
-###
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeljoseph0&label=Profile%20views&color=0e75b6&style=flat" alt="joeljoseph0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeljoseph0" alt="joeljoseph0" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter, React**
-
-- 💬 Ask me about **flutter, javascript, python**
-
-- 📫 How to reach me **joeljoseph.mail@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oA8ItLrPccFFcpW-Xqft66G5hsLB8k29/view?usp=drive_link](https://drive.google.com/file/d/1oA8ItLrPccFFcpW-Xqft66G5hsLB8k29/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joel-joseph0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-joseph0" height="30" width="40" /></a>
-<a href="https://fb.com/joel joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joel joseph" height="30" width="40" /></a>
-<a href="https://instagram.com/joel__joseph__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joel__joseph__01" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/joel-joseph0">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JoelJoseph0">
+    <img src="https://img.shields.io/badge/GITHUB-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeljoseph0&show_icons=true&locale=en&layout=compact" alt="joeljoseph0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeljoseph0&show_icons=true&locale=en" alt="joeljoseph0" /></p>
+## <img src="https://img.shields.io/badge/ABOUT%20ME-8B5CF6?style=flat-square"/> 
+
+Hello! I'm **Joel Joseph**, a Full Stack Developer passionate about building modern applications and exploring emerging technologies.
+
+- 💻 Interested in Full Stack and Backend Development.
+- ☕ Working with Java and Spring Boot.
+- 🐍 Exploring Python and FastAPI.
+- 🤖 Interested in Generative AI and AI-powered applications.
+- 📱 Exploring cross-platform development with Flutter.
+- 🚀 Love learning new technologies and building practical projects.
+
+---
+
+## <img src="https://img.shields.io/badge/TECH%20STACK-A855F7?style=flat-square"/> 
+
+<div align="center">
+
+### ⚡ Technologies I Work With
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</marquee>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/TECHNICAL%20SKILLS-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,react,angular,flutter,firebase,mysql,docker,kubernetes,git,github&theme=dark&perline=7"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/WHAT%20I%20BUILD-A855F7?style=flat-square"/>
+
+| Area | Technologies |
+|---|---|
+| Backend Development | Java, Spring Boot, Python, FastAPI |
+| Frontend Development | JavaScript, React, Angular |
+| Mobile Development | Flutter |
+| Database | SQL, Firebase |
+| AI & Emerging Tech | Generative AI |
+| DevOps & Tools | Docker, Kubernetes, Git |
+
+---
+
+## <img src="https://img.shields.io/badge/GITHUB%20STATISTICS-8B5CF6?style=flat-square"/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoelJoseph0&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJoseph0&layout=compact&theme=synthwave&hide_border=true"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=JoelJoseph0&theme=synthwave&hide_border=true"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoelJoseph0&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-A855F7?style=flat-square"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joel-joseph0">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/JoelJoseph0">
+  <img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JoelJoseph0&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square"/>
+
+### ✨ Thanks for visiting my profile!
+
+**Code. Create. Innovate. Repeat.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12002f,50:5b21b6,100:bc13fe&height=100&section=footer"/>
+
+</div>
